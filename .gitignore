@@ -1,0 +1,4 @@
+build.mjs
+deploy.sh
+*.png
+*.json
